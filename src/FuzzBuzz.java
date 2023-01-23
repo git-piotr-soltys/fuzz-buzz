@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FizzBuzz {
+public class FuzzBuzz {
     public static void main(String[] args) {
         ProcessNumber newNumber = new ProcessNumber();
         System.out.println(" Fizz Buzz program.");
